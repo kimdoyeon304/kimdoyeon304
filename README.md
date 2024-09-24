@@ -1,9 +1,9 @@
 # Introduction
 
-안녕하세요, 김도연 입니다
+안녕하세요, 현재 공부중인 백엔드 개발자 김도연 입니다
 잘 부탁드립니다
 
-<img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimg-cdn.theqoo.net%2FZTIDdt.jpg&type=sc960_832"/>
+Email: fhwm8818@gmail.com
 
 <div align=center><h1>STACKS</h1></div>
 <div align=center>
